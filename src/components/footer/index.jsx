@@ -6,10 +6,10 @@ const Footer = () => {
             <a href="#">
               <i className="ion-social-facebook" title="Facebook" />
             </a>
-            <a href="#">
+            <a href="https://www.facebook.com/evan.samuel.7334">
               <i className="ion-social-instagram-outline" title="Instagram" />
             </a>
-            <a href="#">
+            <a href="https://www.facebook.com/evan.samuel.7334">
               <i className="ion-social-twitter" title="Twitter" />
             </a>
           </div>
