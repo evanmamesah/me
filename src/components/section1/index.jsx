@@ -5,7 +5,7 @@ const Section1 = () => {
           <div className="avatar">
             <img
               className="img-fluid rounded-circle"
-              src="assets/img/avatar.jpg"
+              src="https://github.com/evanmamesah/me/blob/main/src/assets/img/avatar.jpg?raw=true"
             />
           </div>
           <p>
