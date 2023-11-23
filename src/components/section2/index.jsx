@@ -100,7 +100,7 @@ const Section2 = () => {
                       style={{ width: "100%" }}
                     ></div>
                   </div>
-                  <h3>PHP</h3>
+                  <h3>Python</h3>
                   <div className="progress">
                     <div
                       className="progress-bar"
