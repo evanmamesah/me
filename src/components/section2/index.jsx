@@ -64,8 +64,8 @@ const Section2 = () => {
                 </div>
               </div>
               <p className="text-muted">
-                SMA N 3 Tondano is an amazing school that I have ever been. There are many friendship
-                and knowledge that can be found in there.
+                SMA N 3 Tondano is an amazing school that I have ever been. There are many friendship, memories
+                and knowledge that have been made and earned along the way.
               </p>
             </div>
             <div className="item">
