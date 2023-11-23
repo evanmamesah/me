@@ -21,7 +21,7 @@ const Body = () => {
               <li className="nav-item item"></li>
               <li className="nav-item item">
                 <a className="nav-link" href="#work-experience">
-                  Work Experience
+                  Favourite Subjects
                 </a>
               </li>
               <li className="nav-item item">
